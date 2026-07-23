@@ -46,21 +46,7 @@ A full-stack e-commerce web application built with **Django** that allows custom
 
 ---
 
-## 📂 Project Structure
 
-```
-single-vendor-ecommerce/
-│
-├── accounts/
-├── products/
-├── orders/
-├── payments/
-├── templates/
-├── static/
-├── media/
-├── manage.py
-└── requirements.txt
-```
 
 ---
 
@@ -148,20 +134,6 @@ http://127.0.0.1:8000/
 
 ---
 
-## 📸 Screenshots
-
-You can add screenshots here.
-
-Example:
-
-```
-screenshots/
-    home.png
-    product-details.png
-    cart.png
-    checkout.png
-    admin-dashboard.png
-```
 
 ---
 
